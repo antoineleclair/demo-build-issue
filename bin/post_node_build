@@ -1,0 +1,5 @@
+#!/bin/bash -x
+set -e
+echo "-----> Running /bin/post_node_build node buildback"
+
+demo_say_hello
