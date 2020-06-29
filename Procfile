@@ -1,1 +1,1 @@
-web: python demobuildissue/__init__.py
+web: python demobuildissue/app.py
