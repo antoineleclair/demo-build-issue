@@ -4,7 +4,7 @@
     "yarn": "1.13.0"
   },
   "scripts": {
-    "heroku-postbuild": "./bin/post_node_build",
+    "heroku-postbuild": "./bin/post_node_build"
   },
   "dependencies": {
   },
