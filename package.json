@@ -6,8 +6,6 @@
   "scripts": {
     "heroku-postbuild": "./bin/post_node_build"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
